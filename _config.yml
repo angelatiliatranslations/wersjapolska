@@ -1,0 +1,67 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://tiliatranslations.it
+title: Tilia Translations di Angela Brisotto
+email: angela@tiliatranslations.it
+author: Angela Brisotto
+description: English to Italian and Polish to Italian translator specializing in arts, craft production, and environmental sustainability.|Tłumaczka z polskiego na włoski i z angielskiego na włoski specjalizująca się w sztuce, rzemiośle i ekologii.|Traduttrice dall’inglese all’italiano e dal polacco all’italiano specializzata in arte, produzione artigianale e sostenibilità ambientale.
+
+copyright: 'Copyright &copy; 2021 Tilia Translations di Angela Brisotto. All Rights Reserved.
+<br>
+<br>
+TILIA TRANSLATIONS DI ANGELA BRISOTTO
+<br>
+<br>
+Via Daniele Manin, n. 4/10
+<br>
+31027 Spresiano (TV)
+<br>
+P.IVA/VAT: 05247030264
+<br>
+Professionista di cui alla Legge n. 4 del 14.1.2013
+<br>
+<br>
+<br>
+Credits: Theme by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+credits: '&#9993; angela@tiliatranslations.it
+<br>
+<br>
+Monday - Friday: 9 AM - 5 PM (CET)
+<br>
+<a href="http://www.proz.com/translator/2997713">Current availability</a>
+<br>
+<br>
+Poniedziałek - Piątek: 9.00 - 17.00 (CET)
+<br>
+<a href="http://www.proz.com/translator/2997713">Mój kalendarz</a>
+<br>
+<br>
+Lunedì - Venerdì: 9.00 - 17.00 (CET)
+<br>
+<a href="http://www.proz.com/translator/2997713">Calendario aggiornato</a>'
+
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/angela-brisotto
+  - title: email
+    url: mailto:angela@tiliatranslations.it
+  - title: proz
+    url: http://www.proz.com/translator/2997713
+  - title: bonsai
+    url: https://joinbonsai.co/angelabrisotto/
