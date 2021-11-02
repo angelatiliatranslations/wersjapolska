@@ -1,0 +1,33 @@
+---
+layout: default
+img: 3.jpg
+category: Services
+title: Transcriptions &#127911;
+description: transcriptions, transkrypcje, trascrizioni
+---
+<p>
+I provide a transcription service of recordings in Italian. Feel free to send me an email including the file you want to be transcribed in order to get a free quote or more information.
+</p>
+<p>
+<strong>✔️ Hourly rate</strong>
+</p>
+<a href="mailto:angela@tiliatranslations.it">Request a free quote.</a>
+
+<h2>Transkrypcja nagrań</h2>
+<p>
+Zajmuję się transkrypcjami nagrań w języku włoskim. Proszę wysłać mi e-mail z nagraniem do transkrypcji w celu uzyskania dalszych informacji lub bezpłatnej wyceny.
+</p>
+<p>
+<strong>✔️ Stawka godzinowa</strong>
+</p>
+<a href="mailto:angela@tiliatranslations.it">Uzyskaj bezpłatną wycenę.</a>
+
+<h2>Trascrizione di registrazioni</h2>
+<p>
+Offro un servizio di trascrizione di registrazioni in lingua italiana. Per ottenere un preventivo gratuito inviami il file che hai bisogno di trascrivere e ti fornirò volentieri maggiori informazioni. 
+</p>
+<p>
+<strong>✔️ Tariffa oraria</strong>
+</p>
+  <a href="mailto:angela@tiliatranslations.it">Richiedi gratuitamente un preventivo.</a>
+

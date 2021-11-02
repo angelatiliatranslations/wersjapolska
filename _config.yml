@@ -1,0 +1,67 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://tiliatranslations.it
+title: Tilia Translations di Angela Brisotto
+email: angela@tiliatranslations.it
+author: Angela Brisotto
+description: I have been helping individuals and organisations convey their words and ideas to a public that speaks a different language since 2019. Combining analysis, accuracy and wordsmithery, I translate texts from Polish and English into Italian, localise websites for the Italian market, revise translations and proofread texts written in Italian, including academic articles, and transcribe audio and video materials into Italian.
+
+copyright: 'Copyright &copy; 2021 Tilia Translations di Angela Brisotto. All Rights Reserved.
+<br>
+<br>
+TILIA TRANSLATIONS DI ANGELA BRISOTTO
+<br>
+<br>
+Via Daniele Manin, n. 4/10
+<br>
+31027 Spresiano (TV)
+<br>
+P.IVA/VAT: 05247030264
+<br>
+Professionista di cui alla Legge n. 4 del 14.1.2013
+<br>
+<br>
+<br>
+Credits: Theme by <a href="https://startbootstrap.com/">Start Bootstrap</a>.'
+
+credits: '&#9993; angela@tiliatranslations.it
+<br>
+<br>
+Monday - Friday: 9 AM - 5 PM (CET)
+<br>
+<a href="https://www.proz.com/translator/2997713">Current availability</a>
+<br>
+<br>
+Poniedziałek - Piątek: 9.00 - 17.00 (CET)
+<br>
+<a href="https://www.proz.com/translator/2997713">Mój kalendarz</a>
+<br>
+<br>
+Lunedì - Venerdì: 9.00 - 17.00 (CET)
+<br>
+<a href="https://www.proz.com/translator/2997713">Calendario aggiornato</a>'
+
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/angela-brisotto
+  - title: email
+    url: mailto:angela@tiliatranslations.it
+  - title: proz
+    url: https://www.proz.com/translator/2997713
+  - title: bonsai
+    url: https://joinbonsai.co/angelabrisotto/
