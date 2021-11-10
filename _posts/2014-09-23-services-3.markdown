@@ -2,32 +2,16 @@
 layout: default
 img: 5.jpg
 category: Services
-title: Proofreading & Academic Proofreading &#128209;
+title: Korekta tekstów i tłumaczeń w języku włoskim &#128209;
 description: proofreading, korekty, correzione bozze
 ---
 <p>
-I proofread texts written in Italian, including academic texts such as papers and dissertations. Feel free to send me an email including the text you want to be proofread in order to get a free quote or more information.
+Napisanie lub przetłumaczenie tekstu wymaga niezwykłej kreatywności i wysiłku intelektualnego – szkoda, gdy taki ogrom pracy idzie na marne przez pozornie błahe przeoczenia lub błędy ortograficzne. Ponieważ wielokrotne sczytywanie swojego tekstu męczy oczy, dobrym rozwiązaniem jest powierzenie tego zadania profesjonaliście. Zajmuję się korektą tekstów fachowych i prywatnych, w tym tekstów naukowych, takich jak eseje i prace dyplomowe. Koszt usługi korekty jest obliczany zawsze na podstawie stawki godzinowej i obejmuje analizę tekstu, wyszukiwanie terminologii, końcową korektę i wskazanie błędów. W przypadku korekty tłumaczeń z języka angielskiego lub polskiego na język włoski stawka obejmuje również porównanie tłumaczenia z tekstem źródłowym.
 </p>
 <p>
-<strong>✔️ Hourly rate</strong>
-</p>
-<a href="mailto:angela@tiliatranslations.it">Request a free quote.</a>
-
-<h2>Weryfikacja tłumaczeń i korekta tekstów</h2>
-<p>
-Oferuję korekty tekstów w języku włoskim. Robię korekty tekstów akademickich, na przykład wypracowanie albo praca magisterska. Proszę wysłać mi e-mail z tekstem do korekty w celu uzyskania dalszych informacji lub bezpłatnej wyceny.
+<strong>✔️ Teksty fachowe, teksty prywatne, prace dyplomowe i eseje naukowe</strong>
 </p>
 <p>
 <strong>✔️ Stawka godzinowa</strong>
 </p>
-<a href="mailto:angela@tiliatranslations.it">Uzyskaj bezpłatną wycenę.</a>
-
-<h2>Revisioni e correzione di bozze</h2>
-<p>
-Mi occupo della correzione di bozze di testi in lingua italiana inclusi testi di tipo accademico come tesine e tesi. Per ottenere un preventivo gratuito inviami il file che hai bisogno di far correggere e ti fornirò volentieri maggiori informazioni.
-</p>
-<p>
-<strong>✔️ Tariffa oraria</strong>
-</p>
-<a href="mailto:angela@tiliatranslations.it">Richiedi gratuitamente un preventivo.</a>
-
+<a href="mailto:angela@tiliatranslations.it">Chcę otrzymać bezpłatną wycenę.</a>
