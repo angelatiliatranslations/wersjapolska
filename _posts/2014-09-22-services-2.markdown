@@ -3,7 +3,7 @@ layout: default
 img: 2.jpg
 category: Services
 title: Transkrypcja nagrań w języku włoskim &#127911;
-description: transcriptions, transkrypcje, trascrizioni
+description: transkrypcja nagrań audio, transkrypcja nagrań na tekst
 ---
 <p>
 Transkrypcja nagrań ma zazwyczaj na celu nie tylko czyste spisanie sekwencji słów, ale stworzenie spójnego i jednoznacznego tekstu, który powinien być nie tylko poprawny pod względem językowym, ale przede wszystkim zrozumiały dla czytelnika. Jeśli szukasz osoby, która profesjonalnie wykona to zadanie, polecam się do usług – specjalizuję się w transkrypcji nagrań audio i wideo w języku włoskim. Koszt usługi transkrypcji jest obliczany zawsze na podstawie stawki godzinowej i obejmuje spisanie tekstu, wyszukiwanie terminologii, wstępną weryfikację i końcową korektę.
