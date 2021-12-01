@@ -3,7 +3,7 @@ layout: default
 img: 1.jpg
 category: Services
 title: Tłumaczenia pisemne &#127760;
-description: translations, tłumaczenia, traduzioni, localization, lokalizacja, localizzazione, xl8, tn9, l10n
+description: tłumaczenie polsko włoskie, tłumacz polsko włoski, tłumacz angielski włoski, tłumacz angielski na włoski
 ---
 <p>
 Gdy oddajesz tekst do tłumaczenia, zawarte w nim słowa rozpoczynają niezwykłą podróż. Jeśli potrzebujesz profesjonalnego tłumaczenia swojego tekstu z języka angielskiego lub polskiego na język włoski, mogę sprawić, aby podróż ta przebiegła sprawnie i komfortowo. Specjalizuję się w tekstach z zakresu sztuki, rzemiosła, zrównoważonego rozwoju, mody, marketingu i reklamy, ale możesz śmiało zwrócić się do mnie, nawet jeśli Twój tekst dotyczy innej dziedziny. W razie wątpliwości wyślij mi niezobowiązującą wiadomość e-mail i opisz swój projekt. Koszt usługi tłumaczenia jest obliczany zawsze na podstawie liczby słów w tekście źródłowym i obejmuje analizę tekstu, wyszukiwanie terminologii, tłumaczenie i końcową korektę.
