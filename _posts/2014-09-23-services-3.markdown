@@ -2,8 +2,8 @@
 layout: default
 img: 3.jpg
 category: Services
-title: korekta tekstu tłumaczenie, korekta tekstów, korekta tłumaczenia
-description: proofreading, korekty, correzione bozze
+title: Korekta tekstów i tłumaczeń w języku włoskim &#128209;
+description: korekta tekstu tłumaczenie, korekta tekstów, korekta tłumaczenia
 ---
 <p>
 Napisanie lub przetłumaczenie tekstu wymaga niezwykłej kreatywności i wysiłku intelektualnego – szkoda, gdy taki ogrom pracy idzie na marne przez pozornie błahe przeoczenia lub błędy ortograficzne. Ponieważ wielokrotne sczytywanie swojego tekstu męczy oczy, dobrym rozwiązaniem jest powierzenie tego zadania profesjonaliście. Zajmuję się korektą tekstów fachowych i prywatnych, w tym tekstów naukowych, takich jak eseje i prace dyplomowe. Koszt usługi korekty jest obliczany zawsze na podstawie stawki godzinowej i obejmuje analizę tekstu, wyszukiwanie terminologii, końcową korektę i wskazanie błędów. W przypadku korekty tłumaczeń z języka angielskiego lub polskiego na język włoski stawka obejmuje również porównanie tłumaczenia z tekstem źródłowym.
