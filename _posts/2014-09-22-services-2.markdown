@@ -14,4 +14,6 @@ Transkrypcja nagrań ma zazwyczaj na celu nie tylko czyste spisanie sekwencji s�
 <p>
 <strong>✔️ Stawka godzinowa</strong>
 </p>
-<a href="mailto:angela@tiliatranslations.it">Chcę otrzymać bezpłatną wycenę.</a>
+<p>
+Chcesz otrzymać bezpłatną wycenę? Skontaktuj się ze mną mailowo.
+</p>
