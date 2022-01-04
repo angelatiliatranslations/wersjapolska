@@ -18,5 +18,7 @@ Napisanie lub przetłumaczenie tekstu wymaga niezwykłej kreatywności i wysiłk
 <strong>✔️ Stawka godzinowa</strong>
 </p>
 <p>
-Chcesz otrzymać bezpłatną wycenę? Skontaktuj się ze mną mailowo.
+Chcesz otrzymać bezpłatną wycenę? 
+<br>
+Skontaktuj się ze mną mailowo.
 </p>
