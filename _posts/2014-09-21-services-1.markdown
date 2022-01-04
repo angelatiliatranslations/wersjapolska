@@ -18,5 +18,7 @@ Gdy oddajesz tekst do tłumaczenia, zawarte w nim słowa rozpoczynają niezwykł
 <strong>✔️ Stawka za słowo</strong>
 </p>
 <p>
-Chcesz otrzymać bezpłatną wycenę? Skontaktuj się ze mną mailowo.
+Chcesz otrzymać bezpłatną wycenę? 
+<br>
+Skontaktuj się ze mną mailowo.
 </p>
