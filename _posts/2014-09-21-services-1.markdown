@@ -2,7 +2,7 @@
 layout: default
 img: 1.jpg
 category: Services
-title: Tłumaczenia pisemne &#127760;
+title: Tłumaczenia pisemne
 description: tłumaczenie polsko włoskie, tłumacz polsko włoski, tłumacz angielski włoski, tłumacz angielski na włoski
 ---
 <p>
