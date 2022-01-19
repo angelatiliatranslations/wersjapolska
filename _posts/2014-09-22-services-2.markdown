@@ -2,7 +2,7 @@
 layout: default
 img: 2.jpg
 category: Services
-title: Transkrypcja nagrań w języku włoskim &#127911;
+title: Transkrypcja nagrań w języku włoskim
 description: transkrypcja nagrań audio, transkrypcja nagrań na tekst
 ---
 <p>
