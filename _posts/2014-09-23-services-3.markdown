@@ -2,7 +2,7 @@
 layout: default
 img: 3.jpg
 category: Services
-title: Korekta tekstów i tłumaczeń w języku włoskim &#128209;
+title: Korekta tekstów i tłumaczeń w języku włoskim
 description: korekta tekstu tłumaczenie, korekta tekstów, korekta tłumaczenia
 ---
 <p>
