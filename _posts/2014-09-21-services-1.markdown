@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 1.jpg
+img: traduzioni.jpg
 category: Services
 title: Tłumaczenia pisemne
 description: tłumaczenie polsko włoskie, tłumacz polsko włoski, tłumacz angielski włoski, tłumacz angielski na włoski
