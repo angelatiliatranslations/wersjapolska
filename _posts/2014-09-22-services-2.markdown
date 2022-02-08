@@ -26,6 +26,6 @@ Skontaktuj się ze mną mailowo.
 <h4>KLIENCI</h4>
 <br> 
   <div style="float:left; margin-right:1em;">
-    <img src="../wersjapolska/img/Brooklyn Rail pol.jpg" alt="Brooklyn Rail">
+    <img src="./wersjapolska/img/Brooklyn Rail pol.jpg" alt="Brooklyn Rail">
 </div> 
 <br>
