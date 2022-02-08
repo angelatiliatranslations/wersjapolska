@@ -28,10 +28,10 @@ Skontaktuj się ze mną mailowo.
 </p>
 <br>
 <h4>KLIENCI</h4>
-</br> 
-<div style="float:left;margin-right:1em;">
+<br> 
+<div style="float:left; margin-right:1em;">
   <img src="../img/Brooklyn Rail pol.jpg" alt="Brooklyn Rail">
-<div style="float:left;margin-right:1em;">
+<div style="float:left; margin-right:1em;">
   <img src="../img/Translated pol.jpg" alt="Translated">
 </div> 
 <br>
