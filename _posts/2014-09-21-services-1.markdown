@@ -30,8 +30,8 @@ Skontaktuj się ze mną mailowo.
 <h4>KLIENCI</h4>
 <br> 
 <div style="float:left; margin-right:1em;">
-  <img src="https://github.com/angelatiliatranslations/wersjapolska/blob/main/img/Brooklyn%20Rail%20pol.jpg" alt="Brooklyn Rail"/>
+  <img src="https://github.com/angelatiliatranslations/wersjapolska/blob/main/img/Brooklyn%20Rail%20pol.jpg" alt="Brooklyn Rail" />
 <div style="float:left; margin-right:1em;">
-  <img src="https://github.com/angelatiliatranslations/wersjapolska/blob/main/img/Translated%20pol.jpg" alt="Translated"/>
+  <img src="https://github.com/angelatiliatranslations/wersjapolska/blob/main/img/Translated%20pol.jpg" alt="Translated" />
 </div> 
 <br>
