@@ -20,7 +20,7 @@ Transkrypcja nagrań ma zazwyczaj na celu nie tylko czyste spisanie sekwencji s�
 <p>
 Chcesz otrzymać bezpłatną wycenę? 
 <br>
-Skontaktuj się ze mną mailowo.
+<a href="#contact">Skontaktuj się ze mną mailowo.</a>
 </p>
 <br>
 <h4>KLIENCI</h4>
