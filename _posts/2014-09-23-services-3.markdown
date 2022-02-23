@@ -20,6 +20,6 @@ Napisanie lub przetłumaczenie tekstu wymaga niezwykłej kreatywności i wysiłk
 <p>
 Chcesz otrzymać bezpłatną wycenę? 
 <br>
-Skontaktuj się ze mną mailowo.
+<a href="#contact">Skontaktuj się ze mną mailowo.</a>
 </p>
 
