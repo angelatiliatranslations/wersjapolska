@@ -20,7 +20,7 @@ Gdy oddajesz tekst do tłumaczenia, zawarte w nim słowa rozpoczynają niezwykł
 <p>
 Chcesz otrzymać bezpłatną wycenę? 
 <br>
-Skontaktuj się ze mną mailowo.
+<a href="#contact">Skontaktuj się ze mną mailowo.</a>
 </p>
 <br>
 <p>
