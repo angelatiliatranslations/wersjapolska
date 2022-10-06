@@ -26,7 +26,6 @@ Chcesz otrzymać bezpłatną wycenę?
 <a href="#contact">Skontaktuj się ze mną mailowo.</a>
 </p>
 <br>
-<br>
 <h4>KLIENCI</h4>
 <br>
 <div style="float:left;margin-right:1em;"><img src="./img/BrooklynRailpol.jpg" alt="BrooklynRail"/>
