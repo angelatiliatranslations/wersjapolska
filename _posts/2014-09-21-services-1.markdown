@@ -30,6 +30,7 @@ Chcesz otrzymać bezpłatną wycenę?
 <br>
 <div style="float:left;margin-right:1em;"><img src="./img/BrooklynRailpol.jpg" alt="BrooklynRail"/>
 <div style="float:left;margin-right:1em;"><img src="./img/Translatedpol.jpg" alt="Translated"/>
+<div style="float:left;margin-right:1em;"><img src= "../img/twblogo.jpg" alt="TWB"/>
 </div>
 <br>
   
