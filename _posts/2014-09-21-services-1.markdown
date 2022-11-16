@@ -28,6 +28,10 @@ Chcesz otrzymać bezpłatną wycenę?
 <br>
 <h4>WSPÓŁPRACOWAŁAM Z:</h4>
 <br>
+<div style="float:left;margin-right:1em;"><img src="../img/BrooklynRailpol.jpg" alt="Brooklyn Rail"/>
+<div style="float:left;margin-right:1em;"><img src="../img/Translatedpol.jpg" alt="Translated"/>
+<div style="float:left;margin-right:1em;"><img src="../img/twblogopol.jpg" alt="TWB"/>
+</div>
 <br>
   
   
