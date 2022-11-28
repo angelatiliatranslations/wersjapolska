@@ -25,11 +25,3 @@ Chcesz otrzymać bezpłatną wycenę?
 <br>
 <a href="#contact">Skontaktuj się ze mną mailowo.</a>
 </p>
-<br>
-<h4>WSPÓŁPRACOWAŁAM Z:</h4>
-<br>
-<div style="float:left;margin-right:1em;"><img src="./img/BrooklynRailpol.jpg" alt="BrooklynRail"/>
-</div>
-<br>
-
-
