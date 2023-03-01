@@ -22,25 +22,26 @@ Credits: Theme by <a href="https://startbootstrap.com/">Start Bootstrap</a>.
 <br>
 <br>'
 
-credits: 'Notka na temat maili:
-<br>
-<br>
-Proszę opisać swój projekt ze szczegółami. To byłoby bardzo pomocne. Zwykle odpowiadam na maile z pytaniami biznesowymi rano (CET), od poniedziałku do czwartku. Dziękuję za cierpliwość. 
-<br>
-Życzę wspaniałego dnia.
-<br>
-<br>
-Godziny pracy: 
-<br>
-<br>
-od poniedziałku do czwartku - 9.00 - 16.00 (CET)
-<br>
-<em>The office will be closed on January 5th, 2023.</em>
-<br>
-<br>
-Adres: <a href="mailto:angela@tiliatranslations.it">angela@tiliatranslations.it</a>
-<br>
-Adresatka: Angela Brisotto'
+credits: |
+  Notka na temat maili:
+  <br>
+  <br>
+  Proszę opisać swój projekt ze szczegółami. To byłoby bardzo pomocne. Zwykle odpowiadam na maile z pytaniami biznesowymi rano (CET), od poniedziałku do czwartku. Dziękuję za cierpliwość. 
+  <br>
+  Życzę wspaniałego dnia.
+  <br>
+  <br>
+  Godziny pracy: 
+  <br>
+  <br>
+  od poniedziałku do czwartku - 9.00 - 16.00 (CET)
+  <br>
+  <em>The office will be closed on January 5th, 2023.</em>
+  <br>
+  <br>
+  Adres: <a href="mailto:angela@tiliatranslations.it">angela@tiliatranslations.it</a>
+  <br>
+  Adresatka: Angela Brisotto'
 
 
 # ----------------------- #
