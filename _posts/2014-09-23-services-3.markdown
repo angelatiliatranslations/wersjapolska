@@ -1,6 +1,6 @@
 ---
 layout: default
-img: revisioni.jpg
+img: revisioni 2023 POL.png
 category: Services
 title: Korekta tekstów i tłumaczeń w języku włoskim
 description: korekta tekstu tłumaczenie, korekta tekstów, korekta tłumaczenia
